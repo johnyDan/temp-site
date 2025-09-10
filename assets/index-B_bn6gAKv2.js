@@ -16623,7 +16623,7 @@ function c3() {
     ],
   });
 }
-const f3 = "./aws-infra-BVqNR9Wz.png";
+const f3 = "assets/aws-infra-BVqNR9Wz.png";
 function r3() {
   return d.jsx("div", {
     className: "bg-gray-50 rounded-2xl py-24 sm:py-32",
